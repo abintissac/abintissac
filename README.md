@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/z/machine-learning-ml-artificial-intelligence-ai-process-illustrated-machine-learning-artificial-intelligence-process-114400402.jpg
+[![MasterHead](https://www.suntecindia.com/img/news-AI-ML-sevices.png
 )](https://github.com/abintissac/abintissac
 ) 
 
